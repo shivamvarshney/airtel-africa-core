@@ -1,19 +1,19 @@
 {
-  "name": "tvmaze",
+  "name": "core-airtel-africa",
   "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^8.0.3",
-    "@angular/core": "^8.0.3"
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
   },
-  "main": "bundles/tvmaze.umd.js",
-  "module": "fesm5/tvmaze.js",
-  "es2015": "fesm2015/tvmaze.js",
-  "esm5": "esm5/tvmaze.js",
-  "esm2015": "esm2015/tvmaze.js",
-  "fesm5": "fesm5/tvmaze.js",
-  "fesm2015": "fesm2015/tvmaze.js",
-  "typings": "tvmaze.d.ts",
-  "metadata": "tvmaze.metadata.json",
+  "main": "bundles/core-airtel-africa.umd.js",
+  "module": "fesm5/core-airtel-africa.js",
+  "es2015": "fesm2015/core-airtel-africa.js",
+  "esm5": "esm5/core-airtel-africa.js",
+  "esm2015": "esm2015/core-airtel-africa.js",
+  "fesm5": "fesm5/core-airtel-africa.js",
+  "fesm2015": "fesm2015/core-airtel-africa.js",
+  "typings": "core-airtel-africa.d.ts",
+  "metadata": "core-airtel-africa.metadata.json",
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.9.0"
