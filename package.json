@@ -1,0 +1,21 @@
+{
+  "name": "tvmaze",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "main": "bundles/tvmaze.umd.js",
+  "module": "fesm5/tvmaze.js",
+  "es2015": "fesm2015/tvmaze.js",
+  "esm5": "esm5/tvmaze.js",
+  "esm2015": "esm2015/tvmaze.js",
+  "fesm5": "fesm5/tvmaze.js",
+  "fesm2015": "fesm2015/tvmaze.js",
+  "typings": "tvmaze.d.ts",
+  "metadata": "tvmaze.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
